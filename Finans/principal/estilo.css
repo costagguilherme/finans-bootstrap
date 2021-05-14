@@ -1,0 +1,27 @@
+html, body {
+    overflow-x: hidden;
+    height: 100%;
+}
+
+#home {
+    color: white;
+}
+
+
+h1 {
+    font-size: 70px;
+}
+
+@media (max-width: 600px) { 
+    h1 {
+        font-size: 30px;
+}
+}
+
+
+
+footer li {
+    font: white;
+    font-weight: bolder;
+}
+
